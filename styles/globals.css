@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-village-red{
+    background-color: #953852;
+}
+
+.text-village-red{
+    color: #953852;
+}
+
+.bg-primary{
+    background-color: #1176ee;
+}
+
+.bg-secondary{
+    background-color: #ea8b15;
+}
