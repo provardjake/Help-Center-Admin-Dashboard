@@ -1,8 +1,11 @@
 import Layout from "@/components/Layout";
-
+import { useEffect } from "react";
 
 export default function NewTeam(){
-    <Layout>
-        New Team
-    </Layout>
+    return(
+        <Layout>
+            New Team
+        </Layout>
+    )
+
 }
